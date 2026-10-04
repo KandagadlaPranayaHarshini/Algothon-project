@@ -227,6 +227,8 @@ reveals a more complex transaction structure.
 | Meaningful discovery    | ✅      |
 
 ---
+<img width="1921" height="1009" alt="image" src="https://github.com/user-attachments/assets/9a2763f2-de30-4c09-b7f1-01a12b37d3ff" />
+
 
 ## 👩‍💻 Project
 
